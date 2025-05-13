@@ -1,1 +1,2 @@
-some info on the lab ... 
+This Repo has a Polynomial class that has a field for the coefficients of a polynomial.
+it can add polynomials, evaluate polynomials for a specific x, and determine if a polynomial has a root at a specific x point.
